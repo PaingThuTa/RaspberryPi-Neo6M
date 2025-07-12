@@ -1,0 +1,28 @@
+[2025-02-16 17:01:42 +0700] [1172] [INFO] Starting gunicorn 20.1.0
+[2025-02-16 17:01:42 +0700] [1172] [INFO] Listening at: http://0.0.0.0:5000 (1172)
+[2025-02-16 17:01:42 +0700] [1172] [INFO] Using worker: sync
+[2025-02-16 17:01:42 +0700] [1334] [INFO] Booting worker with pid: 1334
+[2025-02-16 17:01:42 +0700] [1335] [INFO] Booting worker with pid: 1335
+[2025-02-16 17:01:43 +0700] [1347] [INFO] Booting worker with pid: 1347
+[2025-02-16 17:01:43 +0700] [1361] [INFO] Booting worker with pid: 1361
+[2025-02-17 21:07:48 +0700] [1172] [CRITICAL] WORKER TIMEOUT (pid:1334)
+[2025-02-17 21:07:48 +0700] [1172] [CRITICAL] WORKER TIMEOUT (pid:1335)
+[2025-02-17 21:07:48 +0700] [1172] [CRITICAL] WORKER TIMEOUT (pid:1347)
+[2025-02-17 21:07:48 +0700] [1334] [INFO] Worker exiting (pid: 1334)
+[2025-02-17 21:07:48 +0700] [1335] [INFO] Worker exiting (pid: 1335)
+[2025-02-17 21:07:48 +0700] [1347] [INFO] Worker exiting (pid: 1347)
+[2025-02-17 21:07:48 +0700] [1172] [CRITICAL] WORKER TIMEOUT (pid:1361)
+[2025-02-17 21:07:48 +0700] [1361] [INFO] Worker exiting (pid: 1361)
+[2025-02-17 21:07:48 +0700] [1903] [INFO] Booting worker with pid: 1903
+[2025-02-17 21:07:48 +0700] [1172] [WARNING] Worker with pid 1334 was terminated due to signal 9
+[2025-02-17 21:07:48 +0700] [1172] [WARNING] Worker with pid 1335 was terminated due to signal 9
+[2025-02-17 21:07:48 +0700] [1172] [WARNING] Worker with pid 1361 was terminated due to signal 9
+[2025-02-17 21:07:48 +0700] [1919] [INFO] Booting worker with pid: 1919
+[2025-02-17 21:07:48 +0700] [1927] [INFO] Booting worker with pid: 1927
+[2025-02-17 21:07:48 +0700] [1935] [INFO] Booting worker with pid: 1935
+[2025-02-17 21:21:19 +0700] [1935] [INFO] Worker exiting (pid: 1935)
+[2025-02-17 21:21:19 +0700] [1172] [INFO] Handling signal: term
+[2025-02-17 21:21:19 +0700] [1903] [INFO] Worker exiting (pid: 1903)
+[2025-02-17 21:21:19 +0700] [1919] [INFO] Worker exiting (pid: 1919)
+[2025-02-17 21:21:19 +0700] [1927] [INFO] Worker exiting (pid: 1927)
+[2025-02-17 21:21:20 +0700] [1172] [INFO] Shutting down: Master

@@ -1,0 +1,61 @@
+Xsession: X session started for tramtracker at Sat 12 Jul 16:42:02 +07 2025
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+xrdb: Can't open display ''
+xhost:  unable to open display ""
+dbus-update-activation-environment: setting USER=tramtracker
+dbus-update-activation-environment: setting TEXTDOMAIN=Linux-PAM
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=wayland
+dbus-update-activation-environment: setting HOME=/home/tramtracker
+dbus-update-activation-environment: setting DESKTOP_SESSION=LXDE-pi-labwc
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DPKG_DEB_THREADS_MAX=1
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LOGNAME=tramtracker
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LANG=en_GB.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=LXDE-pi-labwc
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/tramtracker
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=LXDE-pi-labwc
+dbus-update-activation-environment: setting NO_AT_BRIDGE=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting LC_ALL=en_GB.UTF-8
+dbus-update-activation-environment: setting PWD=/home/tramtracker
+no profile matched
+/usr/bin/sbtest: 2: .: cannot open /usr/share/squeekboard/output: No such file
+Failure: No such entity
+pgrep: pattern that searches for process name longer than 15 characters will result in zero matches
+Try `pgrep -f' option to match against the complete command line.
+pgrep: pattern that searches for process name longer than 15 characters will result in zero matches
+Try `pgrep -f' option to match against the complete command line.
+
+(polkit-mate-authentication-agent-1:972): GLib-CRITICAL **: 16:42:07.917: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:972): polkit-mate-1-WARNING **: 16:42:07.931: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+00:00:10.120 [ERROR] [types/wlr_linux_dmabuf_v1.c:1235] Failed to get backend DRM FD
+II 12-07-25 16:42:35.905 - [src/panel/config/file.cpp:576] Reading XML configuration options from directory /usr/share/wf-panel-pi/metadata
+II 12-07-25 16:42:35.907 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/cputemp.xml
+II 12-07-25 16:42:35.973 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/gpu.xml
+II 12-07-25 16:42:35.976 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/window-list.xml
+II 12-07-25 16:42:35.978 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/notify.xml
+II 12-07-25 16:42:35.980 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/smenu.xml
+II 12-07-25 16:42:35.983 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/updater.xml
+II 12-07-25 16:42:35.985 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/tray.xml
+II 12-07-25 16:42:35.988 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/panel-pi.xml
+II 12-07-25 16:42:35.991 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/clock.xml
+II 12-07-25 16:42:35.992 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/ejecter.xml
+II 12-07-25 16:42:35.995 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/launchers.xml
+II 12-07-25 16:42:35.996 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/cpu.xml
+II 12-07-25 16:42:35.998 - [src/panel/config/file.cpp:589] Reading XML configuration options from file /usr/share/wf-panel-pi/metadata/batt.xml
+** Message: 16:42:43.262: batt: battery 0 not found
+00:00:27.062 [ERROR] [types/wlr_linux_dmabuf_v1.c:1235] Failed to get backend DRM FD
+** Message: 16:42:44.231: up: Checking for updates
+** Message: 16:42:54.796: up: Cache updated - comparing versions
+00:00:42.306 [ERROR] [types/wlr_linux_dmabuf_v1.c:1235] Failed to get backend DRM FD
+00:00:42.338 [ERROR] [types/wlr_linux_dmabuf_v1.c:1235] Failed to get backend DRM FD
+** Message: 16:43:17.139: up: Check complete - 279 updates available
+00:01:15.326 [ERROR] [types/wlr_linux_dmabuf_v1.c:1235] Failed to get backend DRM FD
+00:01:15.327 [ERROR] [types/wlr_linux_dmabuf_v1.c:1235] Failed to get backend DRM FD
